@@ -1,0 +1,51 @@
+* {
+    background-color: rgb(41, 116, 168);
+    font-family: sans-serif;
+    color: rgb(195, 195, 195);
+}
+
+body {
+    margin: 0;
+}
+
+h1, h2, h4 {
+    text-align: center;
+    margin: 0.5em 0;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+.form {
+    height: 10em;
+    background-color: rgb(63, 151, 189);
+    text-align: center;
+}
+
+.text-input {
+    text-align: center;
+    font-size: 2em;
+    border-radius: 0.5em;
+    background-color: rgb(75, 98, 195);
+    color: white;
+    display: block;
+    margin: 0.5em auto;
+}
+
+::-webkit-input-placeholder {
+    color: white:
+}
+.button {
+    font-size: 2em;
+    color: white;
+    border-radius: 0.5em;
+    width: 5em;
+    display: block;
+    margin: 0.5em auto;
+    background-color: rgb(75, 98, 195);
+}
